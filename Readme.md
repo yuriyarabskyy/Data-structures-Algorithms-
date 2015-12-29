@@ -1,1 +1,1 @@
-# My implementations of differen data structures and algorithms
+### My implementations of different data structures and algorithms
